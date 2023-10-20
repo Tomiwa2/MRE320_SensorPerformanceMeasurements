@@ -1,1 +1,20 @@
+The final result for the ultrasonic sensor turned out quite succesful. Out of all three of the sensors tested, this sensor
+appeared to be the most accurate and precise of the three! It was accurate with specification and little to almost no
+shortcomings(noise making the most up the shortcoming)which is impressive especially for its intended prurpose, this is probably due to sound being a potent wave
 
+In conclusion, we observed that: 
+
+> Ultrasonic sensor is prone to noise and interference and would work extermely well in isolated environment.
+
+> The smaller the obstacle and closer the sensor to the ground, the larger the intererence
+
+> The manufacturer specifications are close to the measured specifications even with non ideal conclusion
+
+> Due to interference, for application purpose,a special device to help isolate the sound waves for proper propagation is advisable!
+
+Improvement
+    There is not a lot of improvement that can be done to this setup, the ultrasonuc sensor is pretty accurate sensor
+(which could be due to the fact that it distnace is not a complex quantity) but to get pristine data or even use the sensor
+for complex tasks,we would have to completely isolate the sensor in order to eliminate noise and extract the data from outside the setup (which 
+is research/industry standard testing) which once again we is almost impossible with all that we have access to. All in all, this sensor 
+works well within scope and we can see that in the results of the analysis done on data gotten from the sensor!
