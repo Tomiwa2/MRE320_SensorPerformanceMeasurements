@@ -14,14 +14,14 @@ and then ran a lot of analysis and comparison with the measurement gotten from t
 
 **Included in this Repository are**
 
-Brief Description of the sensors
-Wiring Diagram and Code used to run the Sensors
-The Actual testing Setup
-Measured Data and Analysis
-Results(including summaryy and conclusion of the project)
+- Brief Description of the sensors
+- Wiring Diagram and Code used to run the Sensors
+- The Actual testing Setup
+- Measured Data and Analysis
+- Results(including summaryy and conclusion of the project)
 
    To make sure all necessary information needed to fully understand this project was available, ib this r we included 
-The Sensor Testing Proposal which marked the begining of this project and
-The Sensor Measurement Presentation which contains all the analaysis done on the sensors. 
+* The Sensor Testing Proposal which marked the begining of this project and
+* The Sensor Measurement Presentation which contains all the analaysis done on the sensors. 
 
        
