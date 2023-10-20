@@ -1,1 +1,26 @@
+This was a sensor that already came with a shortcoming; limited application. The testing of this sensor was one whose
+results we could predict. There is an important observation that is worth mentioning; since the sensor is an analog sensor,
+the readings were analog values and we had to go an extra step to convert using the formula below the readings to cm (since we are used to cm and our 
+ground truth is in cm) 
+
+
+
+
+ After the conversion process, we were able to easily analyze the data we had!
+
+In conclusion, we observed that
+
+> The sensor has very limited application although its applications are very important still limited
+
+> There was not much to test! The sensor has no calibration so resolution for one proved to be very hard to quantify
+     the range was just from 1.5 to 4cm which leaves with little to no data to work with.
+
+> Water waves are constantly in motion so it took about 20 seconds for the sensor readings to stabilize which decreased the 
+linearity of the sensor
+
+                                                    Improvement 
+
+ 				 Once agsin, there is not a lot of improvement that can be done to this setup! The only improvement we had after initally
+testing the sensor has already been effected which was the analog to cm conversion process. This sensor definitely 
+works perfectly within scope and despite its limited application is quite useful in its applications!
 
