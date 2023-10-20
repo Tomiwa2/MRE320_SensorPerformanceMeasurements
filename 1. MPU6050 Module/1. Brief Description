@@ -1,4 +1,5 @@
-The first sensor we were assigned was the *MPU6050 module/sensor*.
+The first sensor we were assigned was the MPU6050 module/sensor.
+
   The MPU6050 is a multiaxis accelerometer and gyroscope sensor. It is commonly known as the accelerometer. It features a 
 combines 3-axis gyroscope, 3-axis accelerometer, a Digital Motion Processor (DMP) and a temperature 
 sensor. In our study, we found that it is the world’s first and only 6-axis motion sensor that also doubles 
@@ -6,6 +7,7 @@ down as a temperature sensor.
    Its primary purpose is to measure the two types of acceleration although it can also measure 
 temperature. The accelerometer (whose working principle we would see below) measure linear 
 acceleration while the gyroscope measures angular acceleration.
+
 
 Working Principle
     The MPU6050 has a built-in accelerometer that measures linear acceleration. This is done by utilizing electrodes and a proof mass that are interlaced in a comb-like 
