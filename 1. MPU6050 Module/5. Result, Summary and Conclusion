@@ -1,1 +1,31 @@
+ The main testing process was using a drill as described in the Testing process and setup file. However, as discussed in
+that, we only measured the angular acelertaion of the sensor.
+  The only component we ran out of time to test for was linearr acceleration. The idea was to use a similar contraption to what
+was used by Zarchary(from another group). Basically attached the sensor to a moving object and flipping the sensor 90 degrees to mesure x, y and z axis
+Which was basically what we did! We mounted the sensor on an iOLab(a device that has an acceleromter and gyroscope
+used in laboratories to measure a lot of quantities including linear and angilar accleration) and then rotated the sensor 90 degrees to measure
+both the x,y, z acceleration as well, as can be seen in the testing process file. This enabled us to be able to 
+measure linear and even angular cceleration.
+
+    Below are some of our observations and conclusion on the performance of the sensor;
+
+- The sensor testing setup needs a lot of space and outside materials to be able to be properly tested. 
+- The sensor is subject to alot of interferences and thus requires complex calibrating anf finetuning in order to accomodate 
+these shortcomings 
+- The higher the accelerations( both linear and angular) we tried to measure, the harder the measurements and the moreinaccuarate the readings
+
+                                      Conclusion and improvements
+ The sensor actually works well for its intended purpose and cost but a few things could be taken into consideration to
+better the testing process and thus make up for the shortcoming of the sensor
+> Use 12V motor and something like PWM to control angular velocity
+      Verify with better encoder
+> Mount motor at exactly horizontal or vertical
+> Power Arduino without computer (battery)
+> Utilize onboard storage for results when set up is moving
+
+    Taking these improvements into consideration next time, we could better test the performance of the sensor and end up
+with more accurate and even reliable results to better quantify the sensor and its efficiency but with what we have, we can safely conclude that
+the sensor works well for its purpose and with time and effort, its lack of use in complicated tasks could be compensated!
+
+
 
