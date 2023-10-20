@@ -1,1 +1,29 @@
+Overall this sensor proved to be quite accurate but with a few shortcomings as well. The testing setup was 
+very feasible but quite time consuming and effort draining due to the factors below:
+> Due to winter season in which this project was conducted, we most time has to test in extremely cold weather.
+At first, we sit in the car with the sensot to keep warm but ended up with highly inaccurate readings.
+
+> To make up for that, the other times we did test, we had to stand out side in the cold to get accurate readings 
+and the higher the temperature, the longer time we has to wait for the sensor to pick up that reading 
+
+> Opening and closing the car had a huge impact on the humidity which we could notice in the % error
+
+  In Conclusion, we observed that:
+
+- Temperature adds up everywhere which is why the first time we tried measuring , our readings were off by a considerable amount
+which we did not know at that time was our body temperature
+
+- It took about 10 mins or longer for the sensor to go from the previous temperature to the new temperature
+(this is where most of the lack of the sensor was coming from  
+
+- The longer the sensor stayed at a temperature the more the drift!
+
+- The higher the temperature we were measuring, the longer the sensor response time (to get to the actual value)
+
+                                                    Improvement
+    There is not a lot of improvement that can be done to this setup, temperature spreads really fast and we have to put
+it in a completely isolated environment which is almost next to impossible and even if its possible, it is highly difficult
+with the setup we have, we would have to completely isolate the sensor and extract the data from outside the setup (which 
+is research/industry standard testing). The only improvement we have control over is the time and effort we put into it to 
+compensate its response time (which is where most of its lack if not all is coming from!) and with that we can have a almost
 
