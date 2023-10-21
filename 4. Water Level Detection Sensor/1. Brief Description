@@ -1,1 +1,16 @@
+This fourth sensor was one we were not assigned but instead tasked with picking on our own and 
+the sensor we chose was The Water Level Detection Sensor Module (HW-038). The HW-038 is very selfdescriptive as it does what it says it does: detect water level. Although its purpose goes beyond just 
+detecting water levels as it is also used to monitor a sump pit, detect leaks and even rainfall! It features 
+ten copper wires in which 5 are sense traces and the remaining five are power traces. These traces are 
+disconnected in the absence of water, but when they are submerged in water, bridges are formed. 
+ This is a sensor that we actually do not interact with in our daily lives except there is a need for it! But 
+it is one we can easily incorporate if we ever do need it
 
+Working Principle
+    The working principle of the sensor is quite simple. The power and sensing traces form a variable 
+resistor (similar to a potentiometer) whose resistance value changes based on their exposure to water. This 
+resistance is inversely proportional to the depth of immersion of the sensor in the water: the deeper the 
+sensor is immersed in the water, the better the conductivity and the lower the resistance. The shallower 
+the sensor is immersed in water, the less conductive it is and the higher its resistance. The sensor produces 
+an output voltage proportional to the resistance; by measuring this voltage, the water level can thus be 
+determined, measured and thus displayed!
