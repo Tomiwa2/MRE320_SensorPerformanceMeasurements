@@ -1,1 +1,12 @@
+The third sensor we were assigned was the Ultrasonic Ranging module (HS-SR04). The HSSR04 is a proximity sensor.
+It features two ultrasonic transducers. One is transmitter which outputs 
+ultrasonic sound pulses and the other is receiver which listens for reflected waves Its primary purpose is 
+to measure distance
 
+Working Principle 
+The measurement principle is very simple, generally using the echo time method, that is, 
+detecting the time of ultrasonic round trip to the measured distance, when the transmitter emits a short 
+pulse, the timer starts; the timer stops immediately when the receiver receives a return pulse. The 
+recorded time value at this time is D = CT / 2, where D is the distance between the ultrasonic sensor and 
+the measurement object, C is the propagation speed of the sound wave in the medium (C = 331.4 + t273 / 
+1m / s, t is the temperature in Celsius), and T is the time interval between ultrasonic emission echoes.
