@@ -1,1 +1,14 @@
+    The second sensor we were assigned was the DHT-11 module. The DHT-11 is a temperature 
+and humidity sensor. It features a resistive-type humidity measurement component, a NTC temperature 
+measurement component and an 8-bit microcontroller. Its primary purpose is to measure temperature and 
+humidity. 
 
+Working Principle
+     The DHT11 sensor consists of a capacitive humidity sensing element and a thermistor for sensing 
+temperature. The humidity sensing capacitor has two electrodes with a moisture holding substrate as a 
+dielectric between them. So as the humidity changes, the conductivity of the substrate changes or the 
+resistance between these electrodes’ changes. The IC then measures, processes this changed capacitance 
+values and change them into digital form which is finally read and displayed by the microcontroller 
+     On the other hand, for measuring temperature, the DHT-11 uses a Negative Temperature coefficient 
+thermistor, which causes a decrease in its resistance value with increase in temperature. This resistance 
+change is then measured and converted to temperature which is in turn outputted to the user
