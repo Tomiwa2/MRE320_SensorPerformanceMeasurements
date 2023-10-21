@@ -10,9 +10,15 @@ measure linear and even angular cceleration.
     Below are some of our observations and conclusion on the performance of the sensor;
 
 - The sensor testing setup needs a lot of space and outside materials to be able to be properly tested. 
+
 - The sensor is subject to alot of interferences and thus requires complex calibrating anf finetuning in order to accomodate 
 these shortcomings 
+
 - The higher the accelerations( both linear and angular) we tried to measure, the harder the measurements and the moreinaccuarate the readings
+
+- Our set up faced considerable downside due to the wiring to the Arduino and the sensors. Additionally, the encoder used was unable to keep up with the high speeds of the motor. 
+Overall, we were able to max out the range of the gyroscope at 250 degrees per second. We were also able to achieve repeatability
+across some linear acceleration measurements by changing the radius arm. They were all off by a maximum of 15%
 
                                       Conclusion and improvements
  The sensor actually works well for its intended purpose and cost but a few things could be taken into consideration to
